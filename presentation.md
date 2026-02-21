@@ -111,17 +111,17 @@ Here are my hobbies and the things that make me get out of bed every day
 # End, hope you enjoyed!
 
 <div class="gap-2 mt-6">
-  <a href="https://joaogomesdev.vercel.app" target="_blank" alt="GitHub"
+  <a href="https://joaogomes.dev" target="_blank" alt="GitHub"
     class="text-xl icon-btn  !border-none !hover:text-white" style="color: white;">
-    joaogomesdev.vercel.app 👨🏻‍💻
+    joaogomes.dev 👨🏻‍💻
   </a>
   <div class="gap-2 mt-6 ml-18">
  
-  <a href="https://github.com/joaogomesdev" target="_blank" alt="GitHub"
+  <a href="https://github.com/j5gomes" target="_blank" alt="GitHub"
     class="text-lg icon-btn  !border-none !hover:text-white">
     <carbon-logo-github />
   </a>
-  <a href="https://twitter.com/joaogomesdev" target="_blank" alt="GitHub"
+  <a href="https://twitter.com/j5gomes" target="_blank" alt="GitHub"
     class="text-lg  icon-btn !border-none !hover:text-white">
    <carbon-logo-twitter />
   </a>
