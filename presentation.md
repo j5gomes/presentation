@@ -20,7 +20,7 @@ layout: center
 
   Enthusiastic about web / mobile development 👨‍💻
 
-  👉 **21 years old**
+  👉 **24 years old**
 
   👉 **Live in Espinho**
 
